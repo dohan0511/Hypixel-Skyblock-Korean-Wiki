@@ -1,1 +1,201 @@
+<div class="dual-table-grid">
+{{EnchantmentPageRow|Hecatomb
+|affects=투구
+|desc={{Green|+0.28% ~ +1%}}의 {{스킬명|지하 묘지|XP}}와 {{Green|+0.56% ~ +2%}}의 {{DarkAqua|클래스}} 경험치를 얻는다. 이는 '''{{Aqua|S+}}'''를 달성한 판에서 두 배로 늘어난다. {{스킬명|지하 묘지}} 10레벨당 {{Red|+2.6 ~ +8}} {{stat|hp}}를 부여한다.<hr />던전에서 2번 ~ 100번의 S를 달성하여 업그레이드하며 모루에서 책끼리 결합할 수 없다.
+|source=
+*1~[[커뮤니티 센터]]<br />({{Bits|6k}})
+*2~S 2번
+*3~S 5번
+*4~S 10번
+*5~S 20번
+*6~S 30번
+*7~S 40번
+*8~S 60번
+*9~S 80번
+*10~S 100번
+}}
+
+{{EnchantmentPageRow|Aqua Affinity
+|affects=투구
+|desc=수중에서의 채광 효율을 물 밖과 동일하도록 증가시킨다. (수중에서의 채광은 일반적으로 5배 느리다.)
+|source=[[마법 부여대]]<br />{{CollectionLink|프리즈머린 수정|IV}}<br />{{Collapsible Crafting Grid|B2 = 종이|C2 = 종이|B3 = 종이|C3 = 프리즈머린 수정|output=Enchanted Book (Aqua Affinity I)}}
+}}
+
+{{EnchantmentPageRow|Big Brain
+|affects=투구
+|desc={{g|+15 ~ +25}} {{Stat|int}}를 부여한다.
+|source=
+*1span2~-
+*3span3~암시장 ({{NPCSprite|스콜피우스}})
+}}
+
+{{EnchantmentPageRow|Blast Protection
+|affects=전부
+|desc=폭발 데미지에만 적용되는 {{Green|+30 ~ +210}} {{Stat|Defense}}을 부여한다.<hr />
+''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Protection}}, {{Ench|Fire Protection}}, {{Ench|Projectile Protection}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~[[마법 부여대]]<br />({{Roman numeral|4}}) {{CollectionLink|화약|III}}<br />{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 화약,8|output=Enchanted Book (Blast Protection IV)}}
+*6span2~[[실험]]
+}}
+
+{{EnchantmentPageRow|Counter-Strike
+|affects=흉갑
+|desc=각각의 적에게 처음으로 공격받았을 때 7초 동안 {{Green|+10}} {{Stat|def}}을 부여한다.
+|source=
+*3span3~[[암시장]] ({{NPCSprite|스콜피우스}})<br />({{Roman numeral|4}}, {{Roman numeral|5}}) 같은 책끼리 결합
+}}
+
+{{EnchantmentPageRow|Depth Strider
+|affects=부츠
+|desc=물 속에서의 전후좌우 이동 속도를 {{g|33% ~ 100%}} 증가시킨다. 레벨 III일 경우 이동 속도가 물 밖과 동일해진다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Frost Walker}}을 동시에 가질 수 없다.)''
+|source=[[마법 부여대]]<br />({{Roman numeral|2}}) {{CollectionLink|복어|IV}}<br />{{Collapsible Crafting Grid|B2 = 종이,2|C2 = 종이,2|B3 = 종이,2|C3 = 수련잎,2|A1 = 생연어,2|output=Enchanted Book (Depth Strider II)}}
+}}
+
+{{EnchantmentPageRow|Feather Falling
+|affects=부츠
+|desc=낙하 데미지를 {{g|5% ~ 100%}} 감소시키고 낙하 데미지를 받기 시작하는 높이를 {{g|1 ~ 20}}블록 증가시킨다.
+|source=
+*1span5~[[마법 부여대]]<br />({{Roman numeral|4}}) {{CollectionLink|깃털|II}}<br />{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 깃털,40|output=Enchanted Book (Feather Falling IV)}}
+*6~[[던전 보스 상자]]
+*7span4~같은 책끼리 결합
+*20~{{ID|스프링 부츠}}의 기본 인챈트
+}}
+
+{{EnchantmentPageRow|Ferocious Mana
+|affects=전부
+|desc=사용자 근처에서 소모된 {{stat|마나}}의 {{g|0.05% ~ 0.5%}}만큼의 {{Stat|fer}}를 10초 동안 부여한다. 증가량은 {{Stat|fer|300}}일 때 최대치이다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{EnchantmentsLink|Hardened Mana}}, {{EnchantmentsLink|Strong Mana}}, {{EnchantmentsLink|Mana Vampire}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~{{MobSprite|쿠드라}} 상자
+*6span5~같은 책끼리 결합
+}}
+
+{{EnchantmentPageRow|Fire Protection
+|affects=전부
+|desc=불과 용암으로 입는 데미지에만 적용되는 {{white|+2}} {{Stat|true defense}}을 부여한다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Protection}}, {{Ench|Blast Protection}}, {{Ench|Projectile Protection}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~[[마법 부여대]]<br />({{Roman numeral|4}}) {{CollectionLink|마그마 크림|III}}<br />{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 마그마 크림,8|output=Enchanted Book (Fire Protection IV)}}
+*6span2~[[실험]]
+}}
+
+{{EnchantmentPageRow|Frost Walker
+|affects=부츠
+|desc=물 위를 걸을 때 발밑에 {{Green|1 ~ 2}}블록 반경의 [[얼음]] 블록을 생성한다. <hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Depth Strider}}를 동시에 가질 수 없다.)''
+|source=[[마법 부여대]]<br />({{Roman numeral|1}}) {{CollectionLink|얼음|II}}<br />{{Collapsible Crafting Grid|B2 = 종이|C2 = 종이|B3 = 종이|C3 = 얼음|output=Enchanted Book (Frost Walker I)}}
+}}
+<!--
+{{EnchantmentPageRow|Great Spook
+|affects=[[대규모 공포 갑옷]]
+|desc={{ID|대규모 공포 갑옷}}에 {{Stat|Fear|+1}}를 부여한다.
+|source= *1~{{NPCSprite|연금술사 타쇼이}}
+}}-->
+
+{{EnchantmentPageRow|Growth
+|affects=전부
+|desc={{Green|+15 ~ +105}} {{Stat|Health}}을 부여한다.
+|source=
+*1span5~[[마법 부여대]]<br />({{Roman numeral|4}}) {{CollectionLink|짙은 참나무|VII}}<br />{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 인챈트된 짙은 참나무,8|output=Enchanted Book (Growth IV)}}
+*6~[[실험]]<hr />[[암시장]]
+*7~[[실험]]<hr />암시장 ({{NPCSprite|스콜피우스}})
+}}
+
+{{EnchantmentPageRow|Hardened Mana
+|affects=전부
+|desc=사용자 근처에서 소모된 {{stat|마나}}의 {{g|0.1% ~ 1%}}만큼의 {{Stat|def}}를 10초 동안 부여한다. 증가량은 {{Stat|def|400}}일 때 최대치이다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{EnchantmentsLink|Strong Mana}}, {{EnchantmentsLink|Ferocious Mana}}, {{EnchantmentsLink|Mana Vampire}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~{{MobSprite|쿠드라}} 상자
+*6span5~같은 책끼리 결합
+}}
+
+{{EnchantmentPageRow|Mana Vampire
+|affects=전부
+|desc=사용자 근처에서 소모된 {{stat|마나}}의 {{g|0.5% ~ 5%}}만큼을 회복한다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{EnchantmentsLink|Hardened Mana}}, {{EnchantmentsLink|Strong Mana}}, {{EnchantmentsLink|Ferocious Mana}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~{{MobSprite|쿠드라}} 상자
+*6span5~같은 책끼리 결합
+}}
+
+{{EnchantmentPageRow|Projectile Protection
+|affects=전부
+|desc=발사체로 입는 데미지에만 적용되는 {{Green|+7}} {{Stat|Defense}}을 부여한다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Protection}}, {{Ench|Blast Protection}}, {{Ench|Fire Protection}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~[[마법 부여대]]<br />({{Roman numeral|4}}) {{CollectionLink|깃털|I}}<br />{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 부싯돌 화살,8|output=Enchanted Book (Projectile Protection IV)}}
+*6span2~[[실험]]
+}}
+
+{{EnchantmentPageRow|Protection
+|affects=전부
+|desc={{Green|+3 ~ +21}} {{Stat|Defense}}을 부여한다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Blast Protection}}, {{Ench|Fire Protection}}, {{Ench|Projectile Protection}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~[[마법 부여대]]<br />({{Roman numeral|4}}) {{CollectionLink|철괴|III}}<br />{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 철괴,8|output=Enchanted Book (Protection IV)}}
+*6~[[실험]]<hr />{{NPCSprite|토미오카}}<hr />[[암시장]]
+*7~[[실험]]<hr />암시장 ({{NPCSprite|스콜피우스}})
+}}
+
+{{EnchantmentPageRow|Reflection
+|affects=흉갑
+|desc={{Cyan|+2 ~ +10}} {{Stat|Int}}과 {{White|+1 ~ +5}} {{Stat|True Defense}}을 부여한다. When damaged by an arrow, deal {{Cyan|'''X'''x}} your {{Stat|Int}} to its shooter, where {{Cyan|'''X'''}} is the value of the third row.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Thorns}}를 동시에 가질 수 없다.)''
+|source={{Zone|미러버스}}
+}}
+
+{{EnchantmentPageRow|Rejuvenate
+|affects=전부
+|desc=Grants {{Red|+2}} {{Stat|Health Regen}} per level.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Respite}}을 동시에 가질 수 없다.)''
+|source=[[던전 보스 상자]]
+}}
+
+{{EnchantmentPageRow|Respiration
+|affects=투구
+|desc=Extends underwater breathing time by {{Green|15}} seconds per level.
+|source=[[마법 부여대]]<br />({{Roman numeral|2}}) {{CollectionLink|점토|III}}<br />{{Collapsible Crafting Grid|B2 = 종이,2|C2 = 종이,2|B3 = 종이,2|C3 = 물 양동이|A1 = 익히지 않은 생선,2|output=Enchanted Book (Respiration II)}}
+}}
+
+{{EnchantmentPageRow|Strong Mana
+|affects=전부
+|desc=Gain 0.1% of mana used near you per level as {{Stat|str}} for 10 seconds per level, capped at 100 {{Stat|str}}.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{EnchantmentsLink|Hardened Mana}}, {{EnchantmentsLink|Ferocious Mana}}, {{EnchantmentsLink|Mana Vampire}}를 동시에 가질 수 없다.)''
+|source=
+*1span5~{{MobSprite|쿠드라}} 상자
+*6span5~같은 책끼리 결합
+}}
+
+{{EnchantmentPageRow|Respite
+|affects=전부
+|desc=Increases your natural regeneration by 5% per level while out of combat.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Rejuvenate}}을 동시에 가질 수 없다.)''
+|source=[[실험]]
+}}
+
+{{EnchantmentPageRow|Thorns
+|affects=전부
+|desc=Grants a 50% chance to rebound 3% per level of damage dealt back at the attacker.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Reflection}}를 동시에 가질 수 없다.)''
+|source=[[마법 부여대]]<br />({{Roman numeral|2}}) {{CollectionLink|선인장|VII}}<br />{{Collapsible Crafting Grid|B2 = 종이,2|C2 = 종이,2|B3 = 종이,2|C3 = 인챈트된 선인장빛 초록 염료,2|output=Enchanted Book (Thorns II)}}
+
+}}
+
+{{EnchantmentPageRow|Transylvanian
+|affects=투구
+|desc=Heal {{Red|2❤}}/s per enemy within {{Green|10}} blocks, up to {{Red|20❤}}/s.
+|source=({{Roman numeral|4}}) {{CollectionLink|핏방울|IV}}<br \>{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 피 유리병,8|output=Enchanted Book (Transylvanian IV)}}
+
+}}
+
+{{EnchantmentPageRow|True Protection
+|affects=흉갑
+|desc={{White|+5}} {{Stat|true defense}}을 부여한다.
+|source={{NPCSprite|늙은 주술사 니코}} ''(레벨 I 구매에 {{c|900k|short=y}} 필요)''
+
+}}
+
+{{EnchantmentPageRow|Smarty Pants
+|affects=레깅스
+|desc={{Cyan|+5 ~ +25}} {{Stat|int}}을 부여한다.
+|source={{CollectionLink|엔더맨 슬레이어 5}}
+}}
+
+{{EnchantmentPageRow|Sugar Rush
+|affects=부츠
+|desc={{g|+2 ~ +6}} {{Stat|spd}}을 부여한다.
+|source=
+*1~{{MobSprite|공포 상인}}
+*2~같은 책끼리 결합
+}}
+</div>
 
