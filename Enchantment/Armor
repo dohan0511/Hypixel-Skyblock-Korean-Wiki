@@ -133,25 +133,25 @@
 
 {{EnchantmentPageRow|Reflection
 |affects=흉갑
-|desc={{Cyan|+2 ~ +10}} {{Stat|Int}}과 {{White|+1 ~ +5}} {{Stat|True Defense}}을 부여한다. When damaged by an arrow, deal {{Cyan|'''X'''x}} your {{Stat|Int}} to its shooter, where {{Cyan|'''X'''}} is the value of the third row.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Thorns}}를 동시에 가질 수 없다.)''
+|desc={{Cyan|+2 ~ +10}} {{Stat|Int}}과 {{White|+1 ~ +5}} {{Stat|True Defense}}을 부여한다. 화살에 데미지를 입으면, 화살을 발사한 대상에게 사용자 {{Stat|Int}}의 {{Aqua|2배 ~ 30배}}만큼의 데미지를 입힌다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Thorns}}를 동시에 가질 수 없다.)''
 |source={{Zone|미러버스}}
 }}
 
 {{EnchantmentPageRow|Rejuvenate
 |affects=전부
-|desc=Grants {{Red|+2}} {{Stat|Health Regen}} per level.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Respite}}을 동시에 가질 수 없다.)''
+|desc={{Red|+2 ~ +10}} {{Stat|Health Regen}}을 부여한다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Respite}}을 동시에 가질 수 없다.)''
 |source=[[던전 보스 상자]]
 }}
 
 {{EnchantmentPageRow|Respiration
 |affects=투구
-|desc=Extends underwater breathing time by {{Green|15}} seconds per level.
+|desc=수중에서 호흡할 수 있는 시간을 {{Green|15초 ~ 45초}} 증가시킨다.
 |source=[[마법 부여대]]<br />({{Roman numeral|2}}) {{CollectionLink|점토|III}}<br />{{Collapsible Crafting Grid|B2 = 종이,2|C2 = 종이,2|B3 = 종이,2|C3 = 물 양동이|A1 = 익히지 않은 생선,2|output=Enchanted Book (Respiration II)}}
 }}
 
 {{EnchantmentPageRow|Strong Mana
 |affects=전부
-|desc=Gain 0.1% of mana used near you per level as {{Stat|str}} for 10 seconds per level, capped at 100 {{Stat|str}}.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{EnchantmentsLink|Hardened Mana}}, {{EnchantmentsLink|Ferocious Mana}}, {{EnchantmentsLink|Mana Vampire}}를 동시에 가질 수 없다.)''
+|desc=사용자 근처에서 소모된 {{stat|마나}}의 {{g|0.1% ~ 1%}}만큼의 {{Stat|str}}을 10초 동안 부여한다. 증가량은 {{Stat|def|100}}일 때 최대치이다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{EnchantmentsLink|Hardened Mana}}, {{EnchantmentsLink|Ferocious Mana}}, {{EnchantmentsLink|Mana Vampire}}를 동시에 가질 수 없다.)''
 |source=
 *1span5~{{MobSprite|쿠드라}} 상자
 *6span5~같은 책끼리 결합
@@ -159,22 +159,22 @@
 
 {{EnchantmentPageRow|Respite
 |affects=전부
-|desc=Increases your natural regeneration by 5% per level while out of combat.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Rejuvenate}}을 동시에 가질 수 없다.)''
-|source=[[실험]]
+|desc=전투 중이 아닐 때 {{red|+5 ~ +25}} {{stat|Health Regen}}을 부여한다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Rejuvenate}}을 동시에 가질 수 없다.)''
+|source=
+*1span3~[[실험]]
+*4span2~같은 책끼리 결합
 }}
 
 {{EnchantmentPageRow|Thorns
 |affects=전부
-|desc=Grants a 50% chance to rebound 3% per level of damage dealt back at the attacker.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Reflection}}를 동시에 가질 수 없다.)''
+|desc={{g|50%}}의 확률로 입은 데미지의 {{g|3% ~ 9%}}를 공격받은 대상에게 되돌려준다.<hr />''(이 인챈트가 부여된 갑옷 아이템은 {{Ench|Reflection}}를 동시에 가질 수 없다.)''
 |source=[[마법 부여대]]<br />({{Roman numeral|2}}) {{CollectionLink|선인장|VII}}<br />{{Collapsible Crafting Grid|B2 = 종이,2|C2 = 종이,2|B3 = 종이,2|C3 = 인챈트된 선인장빛 초록 염료,2|output=Enchanted Book (Thorns II)}}
-
 }}
 
 {{EnchantmentPageRow|Transylvanian
 |affects=투구
-|desc=Heal {{Red|2❤}}/s per enemy within {{Green|10}} blocks, up to {{Red|20❤}}/s.
+|desc={{Green|10}}블록의 범위 안에 있는 적 1명마다 초당 {{Red|2❤}}를 회복한다. 회복량은 초당 {{Red|20❤}}일 때 최대치이다.
 |source=({{Roman numeral|4}}) {{CollectionLink|핏방울|IV}}<br \>{{Collapsible Crafting Grid|B2 = 종이,8|C2 = 종이,8|B3 = 종이,8|C3 = 피 유리병,8|output=Enchanted Book (Transylvanian IV)}}
-
 }}
 
 {{EnchantmentPageRow|True Protection
